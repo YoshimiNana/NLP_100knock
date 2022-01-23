@@ -3,7 +3,7 @@
 
 第２章　https://colab.research.google.com/drive/1PotH81GcS-qxalhmjwYhbOj7TlckEsra?usp=sharing
 
-第３章
+第３章　https://colab.research.google.com/drive/1MiCYpJb7bO7fNh-rMqtINEzxYwSSU5_n?usp=sharing
 
 第４章
 
