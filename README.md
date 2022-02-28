@@ -9,6 +9,6 @@
 
 第５章　https://colab.research.google.com/drive/1r35WYNsLbwXYf376T-mFRF1TGRveAi0V?usp=sharing
 
-第６章
+第６章　https://colab.research.google.com/drive/1fI-KnBxdwnPb8fiTq9MdVKhr1yG0_VEL?usp=sharing
 
 第７章
