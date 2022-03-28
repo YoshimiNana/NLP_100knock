@@ -13,8 +13,8 @@
 
 第７章　https://colab.research.google.com/drive/1As0zGssvlcTkFPNX_-SUtBSfB5-Tim4t?usp=sharing
 
-第8章　https://colab.research.google.com/drive/1VzKkHtjSZMHuUxhmNLiQ9IGH5wx0qvrO?usp=sharing
+第８章　https://colab.research.google.com/drive/1VzKkHtjSZMHuUxhmNLiQ9IGH5wx0qvrO?usp=sharing
 
-第9章　https://colab.research.google.com/drive/1CIJEKzY84ZXproCFt0IEoDT9LbvL40Js?usp=sharing
+第９章　https://colab.research.google.com/drive/1CIJEKzY84ZXproCFt0IEoDT9LbvL40Js?usp=sharing
 
 第10章　https://colab.research.google.com/drive/1hNaMlckHAi8cyIXmuqcGGI7LKvmUNhaQ?usp=sharing
